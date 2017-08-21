@@ -18,7 +18,6 @@ public class Cart {
 	@Column(name="Cartid")
 	@GeneratedValue
 	private int id;
-	
 	private int userid;
 	private String productname;
 	private double productprice;

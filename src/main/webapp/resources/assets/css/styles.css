@@ -3,7 +3,7 @@ body{
   font-size:100%;
 }
 
-div.left{
+#nav{
   width:10%;
   float:left;
   background-color:#38197a;

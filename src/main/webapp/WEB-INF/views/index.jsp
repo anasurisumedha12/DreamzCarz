@@ -21,7 +21,7 @@
 </head>
 
 <body>
-    <div class="left">
+    <div id="nav" class="left">
         <ul class="nav">
             <li>
                 <a href="#"> </a>
