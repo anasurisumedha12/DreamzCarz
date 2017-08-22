@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="<c:url value="resources/assets/css/category.css"/>">
 
 
-</head>
+</head>  
 <body>
 
 
